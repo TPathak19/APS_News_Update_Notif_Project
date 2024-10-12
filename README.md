@@ -57,4 +57,4 @@ Ensures that users are always informed about updates on the monitored web page.
 Reduces the manual effort required to check for updates and send notifications.
 The process is fully automated, running in the background with no manual intervention needed after setup.
 
-### Another Kind Note -  Please dont judge the code and the flow its just a fun project that me and my friend did :)) ALSO IT WORKS LOL THATS IMP */\*
+#### Another Kind Note -  Please dont judge the code and the flow its just a fun project that me and my friend did :)) ALSO IT WORKS LOL
